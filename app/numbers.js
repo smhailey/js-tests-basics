@@ -1,11 +1,11 @@
 // Write a function that uses the addition operator to add two numbers together
 function add(x, y) {
-
+  return (x + y)
 }
 
 // Write a function that returns the Cubed value of x
 function cubed(x) {
-
+  return (x * x * x)
 }
 
 // Write a function that will divide two numbers, and will format the returned value
